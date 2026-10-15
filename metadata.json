@@ -1,0 +1,8 @@
+{
+  "name": "Surigao Del Sur Explorer",
+  "description": "Your ultimate digital guide to the breathtaking natural wonders, rich culture, and must-visit spots in Surigao Del Sur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
